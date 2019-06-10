@@ -1,5 +1,5 @@
 # Site settings
-title: 狗没拿伞的博客
+title: 积极向上的阿杰的博客
 url: "http://banrino.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "/" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
 #timezone: Asia/Chongqing
@@ -7,13 +7,13 @@ description: >
   One or more sentences introducing this blog.
 
 # Your information
-email: banrino@outlook.com
-author: 狗没拿伞
+email: 1134846386@qq.com
+author: 积极向上的阿杰
 avatar: "/img/avatar.jpg"
 profile: ACG，Web开发
 #twitter_username: twitter_username
-github_username:  banrino
-jianshu_username:  狗没拿伞
+github_username:  ajie425
+jianshu_username:  积极向上的阿杰
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
